@@ -46,3 +46,4 @@ Code Editor: VS Code
 Browser: Google Chrome / Edge
 
 No external libraries (Pure Vanilla JS)
+![Game UI](assets/img.png)
