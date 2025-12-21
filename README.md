@@ -48,3 +48,4 @@ Browser: Google Chrome / Edge
 No external libraries (Pure Vanilla JS)
 ![Game UI](assets/img.png)
 ![Rock Paper Scissors Game](assets/img.png)
+https://github.com/user-attachments/assets/d9c9d845-b20a-4f59-971b-e10ca9095d3d
