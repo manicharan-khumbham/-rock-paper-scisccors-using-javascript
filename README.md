@@ -39,6 +39,7 @@ Event handling
 
 Score tracking
 
+
 ⚙️ Tools Used
 
 Code Editor: VS Code
@@ -46,6 +47,10 @@ Code Editor: VS Code
 Browser: Google Chrome / Edge
 
 No external libraries (Pure Vanilla JS)
-![Game UI](assets/img.png)
-![Rock Paper Scissors Game](assets/img.png)
-https://github.com/user-attachments/assets/d9c9d845-b20a-4f59-971b-e10ca9095d3d
+
+https://github.com/user-attachments/assets/bf948924-108b-4537-ae46-a9e7230bbd94
+
+
+output preview:
+<img width="310" height="162" alt="img" src="https://github.com/user-attachments/assets/f53045eb-7988-4545-9e08-e18e1baf84b9" />
+
