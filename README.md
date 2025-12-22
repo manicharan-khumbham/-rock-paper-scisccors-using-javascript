@@ -51,6 +51,6 @@ No external libraries (Pure Vanilla JS)
 https://github.com/user-attachments/assets/bf948924-108b-4537-ae46-a9e7230bbd94
 
 
-output preview:
+output  
 <img width="310" height="162" alt="img" src="https://github.com/user-attachments/assets/f53045eb-7988-4545-9e08-e18e1baf84b9" />
 
