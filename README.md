@@ -8,7 +8,7 @@ This project demonstrates core frontend concepts and beginner-friendly game logi
 This is a browser-based Rock Paper Scissors game where a user plays against the computer.
 The computer generates random moves, and the game logic decides the winner based on standard rules.
 
-The project is offline, lightweight, and easy to understand, making it perfect for beginners learning JavaScript.
+
 
 🎮 Game Rules
 
