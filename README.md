@@ -16,7 +16,7 @@ The project is offline, lightweight, and easy to understand, making it perfect f
 
 Rock 🪨 beats Scissors ✂️
 
-Scissors ✂️ beats Paper 📄
+Scissors ✂️ beats Paper   📄
 
 Paper 📄 beats Rock 🪨
 
